@@ -19,10 +19,16 @@ JSON
   "message":"some text or URL"
 }
 ````
-#### Sample response
+#### Sample success response
 ````
 {
    "message":"success",
    "image":"bytes in base64"
+}
+````
+#### Sample fail response
+````
+{
+   "message":"fail"
 }
 ````
